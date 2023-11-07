@@ -1,0 +1,150 @@
+.nav{
+    background: linear-gradient(rgba(88, 88, 88, 0.685),rgba(66, 66, 66, 0.603),rgba(0, 119, 255, 0));
+    border-radius: 5px;
+    margin-top: -0.5cm;
+    margin-left: -.2cm;
+    width: 101.25%;
+
+}
+.nav h1{
+    color: rgb(0, 68, 255);
+}
+.username{
+    margin-left: 12cm;
+}
+.text{
+    margin-left: 18cm;
+    background: transparent;
+    border: none;
+    font-family: "Calibri";
+    font-weight: bolder;
+    font-size: 27px;
+    margin-top: -1cm;
+    color: rgb(149, 248, 0);
+}
+.Plan1{
+    border: none;
+    border-radius: 10px;
+    background: linear-gradient(rgba(0, 0, 0, 0.425),gray);
+    margin-top: 2%;
+    width: 8cm;
+    height: 12cm;
+    margin: 10px;
+    margin-left: 1cm;
+}
+.Plan1:hover{
+    background: linear-gradient(rgb(0, 119, 255),gray,rgba(128, 128, 128, 0.562));
+    transition-duration: 0.5s;
+    font-size: 15px;
+    position: flex;
+    height: 11.5cm;
+    width: 7.5cm;
+}
+.Plan2{
+    border: none;
+    border-radius: 10px;
+    background: linear-gradient(rgba(0, 0, 0, 0.425),gray);
+    margin-top: 3cm;
+    width: 8cm;
+    height: 12cm;
+    margin: 10px;
+    margin-left: 2cm;
+}
+.Plan2:hover{
+    background: linear-gradient(rgb(0, 119, 255),gray,rgba(128, 128, 128, 0.562));
+    transition-duration: 0.5s;
+    font-size: 15px;
+    position: flex;
+    height: 11.5cm;
+    width: 7.5cm;
+}
+.username{
+    border: 0.5px solid skyblue;
+    border-radius: 5px;
+    color: skyblue;
+    width: 3.8cm;
+    margin-left: 21cm;
+}
+.pass{
+    border: 0.5px solid skyblue;
+    border-radius: 5px;
+    color: skyblue;
+    width: 3.8cm;  
+}
+.Plan3{
+    border: none;
+    border-radius: 10px;
+    background: linear-gradient(rgba(0, 0, 0, 0.425),gray);
+    margin-top: 3cm;
+    width: 8cm;
+    height: 12cm;
+    margin: 10px;
+    margin-left: 2cm;
+}
+.Plan4{
+    border: none;
+    border-radius: 10px;
+    background: linear-gradient(rgba(0, 0, 0, 0.425),gray);
+    margin-top: 3cm;
+    width: 8cm;
+    height: 12cm;
+    margin: 10px;
+    margin-left: 1cm;
+}
+.Plan5{
+    border: none;
+    border-radius: 10px;
+    background: linear-gradient(rgba(0, 0, 0, 0.425),gray);
+    margin-top: 3cm;
+    width: 8cm;
+    height: 12cm;
+    margin: 10px;
+    margin-left: 2cm;
+}
+.Plan6{
+    border: none;
+    border-radius: 10px;
+    background: linear-gradient(rgba(0, 0, 0, 0.425),gray);
+    margin-top: 3cm;
+    width: 8cm;
+    height: 12cm;
+    margin: 10px;
+    margin-left: 2cm;
+}
+.Plan3:hover{
+    background: linear-gradient(rgb(0, 119, 255),gray,rgba(128, 128, 128, 0.562));
+    transition-duration: 0.5s;
+    font-size: 15px;
+    position: flex;
+    height: 11.5cm;
+    width: 7.5cm;
+}
+.Plan4:hover{
+    background: linear-gradient(rgb(0, 119, 255),gray,rgba(128, 128, 128, 0.562));
+    transition-duration: 0.5s;
+    font-size: 15px;
+    position: flex;
+    height: 11.5cm;
+    width: 7.5cm;
+}
+.Plan5:hover{
+    background: linear-gradient(rgb(0, 119, 255),gray,rgba(128, 128, 128, 0.562));
+    transition-duration: 0.5s;
+    font-size: 15px;
+    position: flex;
+    height: 11.5cm;
+    width: 7.5cm;
+}
+.Plan6:hover{
+    background: linear-gradient(rgb(0, 119, 255),gray,rgba(128, 128, 128, 0.562));
+    transition-duration: 0.5s;
+    font-size: 15px;
+    position: flex;
+    height: 11.5cm;
+    width: 7.5cm;
+}
+.body{
+    background: linear-gradient(white,skyblue);
+    margin-left: -0.2cm;
+    height: 100%;
+}

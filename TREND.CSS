@@ -1,0 +1,68 @@
+.Navbar{
+    background-image:url(IMG_0912.WEBP) 
+    ;filter: blur(10px);
+    margin-left: -0.2cm;
+    margin-top: 0.2cm;
+    width: 101.1%;
+    background-position: center;
+    height: 4cm;
+    position: auto;
+}
+.log{
+    height: 120px;
+    width: 120px;
+    border-radius: 15px;
+}
+.Navbtn{
+    background: linear-gradient(rgb(255, 3, 3),rgba(128, 128, 128, 0.041));
+    height: 1cm;
+    width: 5.5cm;
+    border: none;
+    border-radius: 5px 5px 0px 0px;
+}
+.navtxt{
+    margin-top: 0cm;
+}
+.notice{
+    height: 750px;
+    width: 1250px;
+}
+.Navbtn:hover{
+    height: 1.5cm;
+    width: 5.5cm;
+    transition: 0.5s;
+    background: linear-gradient(gray, transparent);
+}
+.Jc2{
+    height: 350px;
+    width: 420px;
+    border-radius: 10px;
+
+}
+.Notes{
+    margin-top: -8cm;
+    margin-left: 12cm;
+    font-size: 25px;
+    font-family: "Segeo Print";
+    color: gray;
+}
+.Notes:hover{
+    color: rgba(255, 0, 0, 0.63);
+    transition: 0.5s;
+
+}
+.Jce{
+    margin-top: 1.5cm;
+    border-radius: 15px;
+    height: 120px;
+    width: 120px;
+}
+.Musictracks{
+    margin-top: 2.5cm;
+    background: linear-gradient(gray,transparent);
+    border:none;
+    border-radius: 15px 15px 0px 0px;
+    margin: 20px;
+    margin-top: 2cm;
+    width: 5cm;
+}
